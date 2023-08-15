@@ -4,6 +4,12 @@ kheer
 pastha
 chicken
 
+
+beans
+pizza
+
+done with changes 
+
 thankyou
 
 final copy
